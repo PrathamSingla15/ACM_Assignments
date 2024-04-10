@@ -1,2 +1,2 @@
-# ACM Assignment
-This repository contains assignments of ACM.
+# ACM Projects
+This repository contains projects for ACM.
