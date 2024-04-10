@@ -1,4 +1,4 @@
-# ACM Projects
-This repository contains projects for ACM.
+# ACM Assignments
+This repository contains weekly assignments of ACM.
 ## Some more information
-Today this is week-1 assignment.
+This is week-1 assignment.
